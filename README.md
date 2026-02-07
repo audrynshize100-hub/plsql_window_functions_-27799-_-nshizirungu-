@@ -1,7 +1,7 @@
  SQL JOINs & Window Functions Project
 
 Course: Database Development with PL/SQL (INSY 8311)  
-Student Name: nshizirungu Munyakazi Audry  
+Student Name: nshizirungu Munyakazi Audry  id : 27799
 Database Used: MySQL (phpMyAdmin)
 
  Business Problem
@@ -19,31 +19,52 @@ SQL JOINs and Window Functions are used to support data-driven decision making.
 5. Measure cumulative customer contribution using CUME_DIST()
 
 
-## SQL JOINs – Outputs
+# SQL Window Functions and JOINs Assignment
 
-### FULL OUTER JOIN (Simulated)
+This repository contains screenshots demonstrating SQL JOIN operations and window functions executed in phpMyAdmin.
+
+---
+
+## SQL JOINs
+
+### INNER JOIN
+![INNER JOIN](Screenshot%20(258).png)
+
+### LEFT JOIN
+![LEFT JOIN](Screenshot%20(256).png)
+
+### RIGHT JOIN
+![RIGHT JOIN](Screenshot%20(257).png)
+
+### FULL OUTER JOIN
 ![FULL OUTER JOIN](Screenshot%20(266).png)
 
 ### SELF JOIN
 ![SELF JOIN](Screenshot%20(267).png)
 
+---
 
-## Window Functions – Outputs
+## SQL Window Functions
+
+### SUM() OVER (Running Total)
+![SUM OVER](Screenshot%20(274).png)
 
 ### RANK()
 ![RANK](Screenshot%20(268).png)
 
-### SUM() OVER (Running Total)
-![RUNNING TOTAL](Screenshot%20(239).png)
-
-### LAG & LEAD
-![LAG AND LEAD](Screenshot%20(271).png)
-
-### NTILE(4)
+### NTILE()
 ![NTILE](Screenshot%20(269).png)
 
 ### CUME_DIST()
 ![CUME_DIST](Screenshot%20(270).png)
+
+### LAG and LEAD
+![LAG AND LEAD](Screenshot%20(271).png)
+
+---
+
+All screenshots show successful execution of SQL queries.
+
 
 
 
