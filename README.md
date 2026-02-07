@@ -19,8 +19,31 @@ SQL JOINs and Window Functions are used to support data-driven decision making.
 5. Measure cumulative customer contribution using CUME_DIST()
 
 
+## SQL JOINs – Outputs
+
+### FULL OUTER JOIN (Simulated)
+![FULL OUTER JOIN](Screenshot%20(266).png)
+
+### SELF JOIN
+![SELF JOIN](Screenshot%20(267).png)
 
 
+## Window Functions – Outputs
+
+### RANK()
+![RANK](Screenshot%20(268).png)
+
+### SUM() OVER (Running Total)
+![RUNNING TOTAL](Screenshot%20(239).png)
+
+### LAG & LEAD
+![LAG AND LEAD](Screenshot%20(271).png)
+
+### NTILE(4)
+![NTILE](Screenshot%20(269).png)
+
+### CUME_DIST()
+![CUME_DIST](Screenshot%20(270).png)
 
 
 
